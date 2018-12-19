@@ -1,1 +1,121 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-113692533-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-113692533-1');
+</script>
 
+
+<style type="text/css">
+<!--
+.tab { margin-left: 20px; }
+-->
+</style>
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Badr-Eddine Chérief-Abdellatif</title>
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/github-light.css">
+    <meta name="viewport" content="width=device-width">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>Badr-Eddine Chérief-Abdellatif</h1>
+          <img src="images/IMGP5494_small.jpg" class="pull-left" style="margin:20px
+          20px 20px 0; height:210px; width:210px; border-radius:100%"/>
+          <br>
+          PhD Student in Statistics
+          <br>
+          CREST - ENSAE - Université Paris-Saclay
+          <br>
+          <br>
+        <hr>
+    <div align="left">
+         <ul>
+          <li><a href="#about-me">About Me</a></li>
+          <li><a href="#publications">Publications</a></li>
+          <li><a href="#teaching">Teaching</a></li>
+          <li><a href="#talks">Talks</a></li>
+          <li><a href="#education">Education</a></li>
+        </ul>
+    </div>
+        <br>
+        <hr>
+          <a target="_blank" href="https://github.com/badreddinecheriefabdellatif" class="icon">
+              <img class="fa fa-twitter fa-lg" src = "images/github.png" style="height:32px; width:32px">
+          </a>
+          <a href="mailto:badr.eddine.cherief.abdellatif@ensae.fr" class="icon">
+              <img class="fa fa-twitter fa-lg" src = "images/mail.png" style="height:32px; width:32px">
+          </a>
+          <br>
+      </header>
+      <section>
+        <h2>
+<a id="about-me" class="anchor" href="#about-me" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>About me</h2>
+<p>I am a PhD student in statistics at <a href="http://crest.science/">Center for Research in Economics and Statistics (CREST)</a>, Paris, under the supervision of <a href="http://alquier.ensae.net/">Pierre Alquier</a>. My main research interests lie in Variational Bayes inference for approximating intractable posteriors in statistics and machine learning. More precisely, my work focuses on the statistical properties of Variational Bayes procedures and the design of efficient algorithms for computing them. I also provide teaching sessions in mathematics at <a href="http://www.ensae.fr/">ENSAE ParisTech</a>. Prior that, I graduated with the <a href="http://cmla.ens-paris-saclay.fr/version-anglaise/academics/mva-master-degree-227777.kjsp?RH=DL_CMLA-GB">MVA</a> Master program in machine learning and computer vision from <a href="http://www.ens-cachan.fr/en">Ecole Normale Supérieure Paris-Saclay</a> and obtained the engineering degree of <a href="http://www.ensae.fr/">ENSAE ParisTech</a>.
+<a href="#publications"></p>
+                       
+                       
+<h2>
+<a id="publications" class="anchor" href="#publications" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Publications</h2>
+<p><em>2018</em></p>
+        
+<ul>
+<li>Chérief-Abdellatif B.E., <a href="http://approximateinference.org/2018/accepted/CheriefAbdellatif2018.pdf">Consistency of ELBO maximization for model selection</a>. <b>Symposium on Advances in Approximate Bayesian Inference (AABI)</b>, 2018. <i>Oral Presentation, Travel Award</i>.
+</li>
+<li>Chérief-Abdellatif B.E., Alquier P. <a href="http://dx.doi.org/doi:10.1214/18-EJS1475">Consistency of Variational Bayes Inference for Estimation and Model Selection in Mixtures</a>. <b>Electronic Journal of Statistics</b>, 2018. 
+</li>
+</ul>
+                       
+<h2>
+<a id="teaching" class="anchor" href="#teaching" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Teaching</h2>
+<p>I have been a teaching assistant for the following courses:</p>
+<ul>
+<li>Measure Theory -  ENSAE ParisTech in Fall 2018 with <a href="http://www.arnak-dalalyan.fr/">Arnak Dalalyan</a></li>
+<li>Mathematical Statistics - ENSAE ParisTech in Fall 2017 and 2018 with <a target="_blank" href="https://sites.google.com/site/nicolaschopinstatistician/">Nicolas Chopin</a></li>
+<li>Analysis & Topology - ENSAE ParisTech in Fall 2017 and 2018 with <a target="_blank" href="https://sites.google.com/site/nmariemath/">Nicolas Marie</a></li>
+<li>Machine Learning - ENSAE ParisTech in Spring 2018 and 2019 with <a target="_blank" href="http://alquier.ensae.net/">Pierre Alquier</a></li>
+</ul>
+                                                                                                                       
+                                                                                                                       
+                                                                                                                       
+<h2>
+<a id="talks" class="anchor" href="#talks" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Talks</h2>
+<p><em>Research Presentations</em></p>
+<ul>
+<li>Talk: <a href="http://approximateinference.org/schedule/">Consistency of ELBO maximization for model selection</a>, Symposium on Advances in Approximate Bayesian Inference, Montréal (Canada), 2018/12/02 </li>
+<li>Talk: <a href="http://crest.science/event/badr-eddine-cherief-abdellatif-crest-consistency-of-variational-bayes">Consistency of Variational Bayes</a>, Statistics - Machine Learning - Econometrics Seminar, CREST, Palaiseau, 2018/10/31 </li>
+<li>Talk: <a href="http://badreddinecheriefabdellatif.github.io/Badr Orsay.pdf" class="download" title="Consistency of Variational Bayes Inference for Estimation and Model Selection in Mixtures">Consistency of Variational Bayes Inference for Estimation and Model Selection in Mixtures</a>, Probability and Statistics Seminar, Université Paris Sud, Orsay (France), 2018/06/14 </li>
+</ul>
+                                                                                                                   
+<p><em>Seminar organization</em></p>
+<ul>
+<li> CREST PhD Day, CREST internal Annual Seminar for incoming PhD Students, Palaiseau, 2018/10/05</li>
+</ul>
+                                                                                     
+<h2>
+<a id="education" class="anchor" href="#education" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Education</h2>
+<p><a href="http://badreddinecheriefabdellatif.github.io/CV.pdf" class="download" title="Download CV as PDF">Download CV</a></p>
+<ul>
+<li>Ph.D. in Statistics, CREST-ENSAE-Université Paris-Saclay, 2017-2020 (expected)</li>
+<li>M.Sc. in Machine Learning & Computer Vision, ENS Paris-Saclay, 2016-2017</li>
+<li>M.Sc in Statistics and Economics, ENSAE ParisTech, 2014-2017</li>
+</ul>
+      </section>
+      <footer>
+        <p><small></small></p>
+      </footer>
+    </div>
+    <script src="javascripts/scale.fix.js"></script>
+    
+  </body>
+</html>
