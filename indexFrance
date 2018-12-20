@@ -1,0 +1,124 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-113692533-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-113692533-1');
+</script>
+
+
+<style type="text/css">
+<!--
+.tab { margin-left: 20px; }
+-->
+</style>
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Jules Depersin</title>
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/github-light.css">
+    <meta name="viewport" content="width=device-width">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>Jules Depersin</h1>
+          <img src="images/PhotoIdentiteJules.jpg" class="pull-left" style="margin:20px
+          20px 20px 0; height:210px; width:210px; border-radius:100%"/>
+          <br>
+          Statistics Ph.D. Student 
+          <br>
+          ENSAE Paris | CREST | University Paris Saclay
+          <br>
+          <br>
+        <hr>
+    <div align="left">
+         <ul>
+          <li><a href="#about-me">About Me</a></li>
+          <li><a href="#teaching">Teaching</a></li>
+          <li><a href="#education">Education</a></li>
+          <li><a href="#publications">Publications</a></li>
+          <!--<li><a href="#talks">Talks</a></li>-->
+        </ul>
+    </div>
+        <br>
+        <hr>
+          <a target="_blank" href="https://scholar.google.fr/citations?user=XZzhAUEAAAAJ&hl=en&oi=ao" class="icon">
+              <img class="fa fa-twitter fa-lg" src = "images/gs.png" style="height:32px; width:32px">
+          </a>
+          <a href="mailto:jules.depersin@gmail.com" class="icon">
+              <img class="fa fa-twitter fa-lg" src = "images/mail.png" style="height:32px; width:32px">
+          </a>
+          <br>
+      </header>
+      <section>
+        <h2>
+<a id="about-me" class="anchor" href="#about-me" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>About me</h2>
+<p>I'm currently a first-year PhD Student in Statistics at the <a target="_blank" href="http://crest.science/">Center for research in economics and statistics (CREST), Paris</a>. 
+My supervisor is <a target="_blank" href="http://lecueguillaume.github.io">Guillaume Lecué</a>. </p>
+<p>My research interest lies broadly in the intersection of high-dimensionnal geometry, robust statistics and concentration of measure phenomenons. I'm also very fascinated   </p>
+<h2>
+<a id="teaching" class="anchor" href="#teaching" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Teaching</h2>
+<p>I've had and will have the pleasure of assisting in teaching several courses, here are some.</p>
+<ul>
+<li>Théorie des processus (Martingales and Markov Chains) - ENSAE ParisTech in Fall 2018 with <a target="_blank" href="http://alquier.ensae.net/teachings.html">Pierre Alquier</a></li>
+<li>Probability Theory -  ENSAE ParisTech in Spring 2019 with <a href="http://www.ensae.fr/author/ssouchet/">Sandie Souchet</a></li>
+</ul>
+<h2>
+<a id="education" class="anchor" href="#education" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Education</h2>
+<ul>
+<li>Ph.D. in Applied Mathematics, ENSAE and University Paris Saclay [<strong>2018-Present</strong>]</li>
+<li>M.Sc. in Statistics & Data analysis, ENSAE, Paris[<strong>2017</strong>]</li>
+<li>Engeneering degree, Ecole Polytechnique[<strong>2016</strong>]</li>
+</ul>
+<h2>
+<a id="working_papers" class="anchor" href="#working_papers" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Working Papers</h2>
+<ul>
+<li>Buchholz A, Jacob PE, Chopin N (2018). 
+<a target="_blank" href="https://arxiv.org/abs/1808.07730">Adaptive Tuning Of Hamiltonian Monte Carlo Within Sequential
+Monte Carlo</a>
+.</li>
+<!-- <li>Buchholz A, Chopin N, Mandt S, Kloft M, Opper M, (2016). Hamiltonian Monte Carlo for Wishart distributions.</li> --!>
+</ul>
+<h2>
+<a id="publications" class="anchor" href="#publications" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Publications</h2>
+<p><em>2018</em></p>
+<ul>
+<li>Buchholz* A, Wenzel* F, Mandt S, (2018). <a target="_blank" href="https://amor.cms.hu-berlin.de/~wenzelfl/files/qmcvi_ICML.pdf">Quasi-Monte Carlo Variational Inference</a>. ICML 2018. *(equal contributions)</li></ul>
+<ul>
+<li>Buchholz A, Chopin N (2018). Preprint on arXiv: <a target="_blank" href="https://arxiv.org/abs/1710.01057">Improving approximate Bayesian computation via quasi Monte Carlo</a>. Journal of Computational and Graphical Statistics (to appear). </li></ul>
+<h2>
+<a id="talks" class="anchor" href="#talks" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Talks</h2>
+<p><em>Invited Presentations</em></p>
+<ul>
+<li>Improving approximate Bayesian computation via quasi Monte Carlo, <a target="_blank" href="https://sites.google.com/view/abc-in-edinburgh/">ABC in Edinburgh at the ISBA world meeting</a> , Edinburgh, UK, 6/24/2018</li>
+<li> Adaptive Tuning Of Hamiltonian Monte Carlo Within Sequential
+Monte Carlo, <a target="_blank" href="https://conferences.ncl.ac.uk/ilike2018/">i-like Workshop 2018</a> , Newcastle, UK, 6/22/2018</li>
+</ul>
+<p><em>Research Presentations</em></p>
+<ul>
+<li>Improving approximate Bayesian computation via quasi Monte Carlo, Rencontre des jeunes statisticiens, Porquerolles, France, 4/5/2017 </li>
+<li>Improving approximate Bayesian computation via quasi Monte Carlo, Young Statistician Meeting, UCL, London UK, 8/18/2016 </li>
+</ul>
+<p><em>Poster Presentations</em></p>
+<ul>
+<li> Improving approximate Bayesian computation via quasi Monte Carlo, Machine learning summer school, Tuebingen Germany, 6/26/2017 </li>
+<li> Improving approximate Bayesian computation via quasi Monte Carlo, ABCruise, Helsinki Finland, 5/17/2016 </li>
+<li> Hamiltonian Monte Carlo for Wishart distributions, International conference on Monte Carlo techniques, Paris France, 7/6/2016 </li>
+</ul>
+      </section>
+      <footer>
+        <p><small></small></p>
+      </footer>
+    </div>
+    <script src="javascripts/scale.fix.js"></script>
+    
+  </body>
+</html>
